@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Product Landing Page**
 
-- 🌱 I’m currently learning **Web Development,Java**
+- 🌱 I’m currently learning **CEH**
 
 - 💬 Ask me about **vulnerability analysis and pentesting |Designing|**
 
