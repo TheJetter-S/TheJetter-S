@@ -75,15 +75,6 @@ Nmap | Burp Suite | Wireshark | Metasploit | Nessus
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thejetter-s&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejetter-s&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - Advanced exploitation techniques  
