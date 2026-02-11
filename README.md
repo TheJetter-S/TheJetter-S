@@ -1,37 +1,82 @@
-<h1 align="center">Santhosh M 👋</h1>
-<h3 align="center">Cybersecurity Enthusiast | CEH Learner | Builder from India</h3>
+<h1 align="center">Santhosh M</h1>
+<h3 align="center">Certified Ethical Hacker (CEH v13) | Cybersecurity Analyst | VAPT Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/thejetter-s">
-    <img src="https://komarev.com/ghpvc/?username=thejetter-s&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=thejetter-s&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🛡 About Me
 
-- 🎓 Student focused on **Cybersecurity & Ethical Hacking**
-- 🔐 Currently preparing for **CEH Certification**
-- 🛠 Building: **Product Landing Page**
-- 🧠 Interested in: Vulnerability Analysis, Pentesting & Secure Design
-- 🎯 Goal: To become a skilled Security Analyst
+Cybersecurity professional specializing in **Vulnerability Assessment & Penetration Testing (VAPT)** and **Web Application Security**.
+
+I focus on identifying, exploiting, and mitigating real-world security weaknesses to strengthen organizational security posture.
+
+📍 Karaikal, Puducherry, India  
+📧 santhoshm1417@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/santhoshmanivasagan)
 
 ---
 
-## 🧰 Tech Stack
+## 🔥 Professional Highlights
 
-### 👨‍💻 Programming
+✔ Conducted **50+ vulnerability assessments** with 95% success rate  
+✔ Reduced vulnerabilities by **40% across 5+ projects**  
+✔ Developed **client-side encryption Chrome extension** (50+ users, 100% data confidentiality)  
+✔ Delivered **10+ cybersecurity lectures** impacting 500+ students  
+✔ Hands-on experience in reconnaissance, exploitation & risk analysis  
+
+---
+
+## 💼 Experience
+
+### Penetration Tester Trainee  
+**Cybervault Innovations & Technologies Pvt Ltd** | Coimbatore  
+_Oct 2025_
+
+- Performed reconnaissance and vulnerability identification
+- Analyzed firewall rule sets & network segmentation
+- Collaborated with security teams on remediation strategies
+- Delivered cybersecurity awareness sessions
+- Evaluated web application security using industry tools
+
+---
+
+## 🚀 Key Projects
+
+### 🔍 VAPT – Simulated Network Testing
+- Executed systematic vulnerability scans
+- Conducted authorized penetration testing
+- Documented and prioritized risks with impact analysis
+
+### 🔐 Client-Side Encryption Extension
+- Built Chrome extension for secure cloud file sharing
+- Enforced encryption before upload (zero-trust approach)
+- Tested against modern web vulnerabilities
+
+---
+
+## 🧰 Technical Skills
+
+### 🔹 Security
+OWASP | VAPT | Web Security | Reconnaissance | Exploitation | Risk Assessment  
+
+### 🔹 Tools
+Nmap | Burp Suite | Wireshark | Metasploit | Nessus  
+
+### 🔹 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
 </p>
 
-### 🛡 Cybersecurity Tools
-- Wireshark  
-- Burp Suite  
-- Nessus  
-- Metasploit  
-- Nikto  
+---
+
+## 📜 Certifications
+
+- Certified Ethical Hacker (CEH v13)
+- Certified API Hacking Expert (CAPIE)
+- Network Basics – CISCO
 
 ---
 
@@ -44,24 +89,10 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
 
-<p>
-<a href="https://linkedin.com/in/santhoshmanivasagan">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="mailto:santhoshm1417@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-## 🔥 Current Focus
-
-> Mastering real-world attack simulations  
-> Improving system-level thinking  
-> Building projects instead of just learning theory
-
----
+- Advanced exploitation techniques  
+- API security testing  
+- Real-world red team simulations  
+- Secure architecture design  
 
