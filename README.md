@@ -65,11 +65,6 @@ OWASP | VAPT | Web Security | Reconnaissance | Exploitation | Risk Assessment
 ### 🔹 Tools
 Nmap | Burp Suite | Wireshark | Metasploit | Nessus  
 
-### 🔹 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
-</p>
-
 ---
 
 ## 📜 Certifications
