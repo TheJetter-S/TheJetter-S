@@ -13,7 +13,7 @@ Cybersecurity professional specializing in **Vulnerability Assessment & Penetrat
 
 I focus on identifying, exploiting, and mitigating real-world security weaknesses to strengthen organizational security posture.
 
-📍 Karaikal, Puducherry, India  
+📍India  
 📧 santhoshm1417@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/santhoshmanivasagan)
 
