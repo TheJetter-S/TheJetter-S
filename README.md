@@ -2,9 +2,10 @@
 <h3 align="center">Certified Ethical Hacker (CEH v13) | Cybersecurity Analyst | VAPT Specialist</h3>
 
 <p align="center">
+ 
   <img src="https://komarev.com/ghpvc/?username=thejetter-s&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-
+ <img src="https://raw.githubusercontent.com/TheJetter-S/Asserts/TheJetter-S-design.gif" alt="Design Banner">
 ---
 
 ## 🛡 About Me
