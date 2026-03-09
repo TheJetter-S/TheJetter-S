@@ -9,79 +9,45 @@
   <img src="https://raw.githubusercontent.com/TheJetter-S/Asserts/main/TheJetter-S-design.gif" alt="Design Banner">
 </p>
 
----
-## 🛡 About Me
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
-Cybersecurity professional specializing in **Vulnerability Assessment & Penetration Testing (VAPT)** and **Web Application Security**.
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-I focus on identifying, exploiting, and mitigating real-world security weaknesses to strengthen organizational security posture.
+###
 
-📍India  
-📧 santhoshm1417@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/santhoshmanivasagan)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kali" height="60" alt="kali linux logo"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/BurpSuite_Logo.png" height="60" alt="burp suite logo"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Nmap-logo.svg" height="60" alt="nmap logo"/>
+  <img width="12" />
+  <img src="https://img.icons8.com/fluency/96/cyber-security.png" height="60" alt="cyber security logo"/>
+  <img width="12" />
+  <img src="https://images.credly.com/size/340x340/images/0f4f5b1f-9d1f-4a8e-bfcb-8c3b1c89eac5/ceh-v13.png" height="60" alt="CEH v13 certification logo"/>
+</div>
 
----
+###
 
-## 🔥 Professional Highlights
+<div align="center">
+  <a href="https://www.linkedin.com/in/santhoshmanivasagan/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+</div>
 
-✔ Conducted **50+ vulnerability assessments** with 95% success rate  
-✔ Reduced vulnerabilities by **40% across 5+ projects**  
-✔ Developed **client-side encryption Chrome extension** (50+ users, 100% data confidentiality)  
-✔ Delivered **10+ cybersecurity lectures** impacting 500+ students  
-✔ Hands-on experience in reconnaissance, exploitation & risk analysis  
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=santhoshmanivasagan&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=santhoshmanivasagan&theme=dracula&column=4" height="150"/>
+</div>
 
-## 💼 Experience
+###
 
-### Penetration Tester Trainee  
-**Cybervault Innovations & Technologies Pvt Ltd** | Coimbatore  
-_Oct 2025_
-
-- Performed reconnaissance and vulnerability identification
-- Analyzed firewall rule sets & network segmentation
-- Collaborated with security teams on remediation strategies
-- Delivered cybersecurity awareness sessions
-- Evaluated web application security using industry tools
-
----
-
-## 🚀 Key Projects
-
-### 🔍 VAPT – Simulated Network Testing
-- Executed systematic vulnerability scans
-- Conducted authorized penetration testing
-- Documented and prioritized risks with impact analysis
-
-### 🔐 Client-Side Encryption Extension
-- Built Chrome extension for secure cloud file sharing
-- Enforced encryption before upload (zero-trust approach)
-- Tested against modern web vulnerabilities
-
----
-
-## 🧰 Technical Skills
-
-### 🔹 Security
-OWASP | VAPT | Web Security | Reconnaissance | Exploitation | Risk Assessment  
-
-### 🔹 Tools
-Nmap | Burp Suite | Wireshark | Metasploit | Nessus  
-
----
-
-## 📜 Certifications
-
-- Certified Ethical Hacker (CEH v13)
-- Certified API Hacking Expert (CAPIE)
-- Network Basics – CISCO
-
----
-
-## 🎯 Current Focus
-
-- Advanced exploitation techniques  
-- API security testing  
-- Real-world red team simulations  
-- Secure architecture design  
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
